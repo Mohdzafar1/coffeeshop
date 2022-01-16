@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#home{
+padding-top: 20rem;
+    background: url(bc2.jpg);
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    
+
+}
+
+#img{
+    padding-top:5px;
+    width: 100rem;
+    height: 40rem;
+}
+#radius{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 40rem;
+
+}
+#card:hover {
+
+ background-color: orange;
+
+}
+#card1:hover {
+
+    background-color:rgba(27, 129, 27, 0.644);
+   
+   }
+   #card2:hover {
+
+    background-color: rgba(35, 35, 156, 0.596);
+   
+   }
+
+   #card6:hover {
+
+    background-color: rgba(8, 8, 82, 0.185);
+   
+   }
+
+   #card5:hover {
+
+    background-color: rgba(56, 31, 31, 0.658)
+   
+   }
+
+   #card4:hover {
+
+    background-color: rgba(175, 29, 29, 0.568)
+   
+   }
+
+   #coffee{
+       width: 20rem;
+       height: 20rem;
+}
+
+#customer{
+    border-radius: 40rem;
+    width: 200px;
+    height: 200px;
+}
+#coffeepost{
+    width: 26rem;
+    height:26rem;
+}
+#coffee{
+    border-radius: 5px;
+}
+#coffee:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+#customer:hover{
+    transform: scale(1.1);
+    z-index: 2;
+}
+#hover:hover{
+    background-color: orangered;
+}
+#social-media{
+    letter-spacing: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
